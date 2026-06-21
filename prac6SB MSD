@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Mahendra Singh Dhoni</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            box-shadow: #161515;
+            background-color: rgb(55, 55, 55);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: rgb(255, 255, 255);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: rgb(0, 0, 0);
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+        h1 {
+            color: #fdfbfc;
+        }
+
+        img {
+            width: 200%;
+            max-width: 300px;
+           
+            padding: center;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #fdfbfb;
+        }
+
+        .footer {
+            margin-top: 10px;
+            font-style: italic;
+            color: #f5f1f1;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Tribute to Mahendra Singh Dhoni</h1>
+        <h1> The MAN, The MYTH, The LEGEND</h1>
+        <img src="c:\Users\Pc\Downloads\msdimg.jpg" style="padding-left: 240px;">
+            alt="THE LEGEND-Mahendra Singh Dhoni" width="30px" highest="30px">
+            <p class="footer">"I don't believe in taking right decisions. I take decisions and then make them right.-MSD</p>
+        <p>
+            Mahendra Singh Dhoni, often referred to as the "Captain Cool," is a cricketing legend who redefined leadership in Indian cricket. Born on July 7, 1981, in Ranchi, Jharkhand, Dhoni rose to prominence with his calm demeanor and tactical acumen on the field. As captain of the Indian national team, he led India to numerous historic victories, including the 2007 ICC T20 World Cup, the 2011 ICC Cricket World Cup, and the 2013 ICC Champions Trophy.
+        </p>
+        <p>
+            His ability to finish games under pressure, particularly with his iconic helicopter shot, earned him worldwide acclaim. Dhoni's leadership style focused on trust and allowing players the freedom to express themselves. Off the field, he has been admired for his humility and unassuming nature. With numerous records to his name, including being the most successful captain in Indian cricket history, Dhoni’s legacy transcends the sport. Even after retiring from international cricket in 2020, his influence on the game remains immense, inspiring future generations of cricketers. 
+        </p>
+       
+    </div>
+</body>
+
+</html>
